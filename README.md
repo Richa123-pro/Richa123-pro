@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Richa123-pro
+- 👋 Hi, I’m Richa Gupta
 - 👀 I’m interested in ... Database Management System
 - 🌱 I’m currently learning ... Image Processing
 - 📫 How to reach me ... gupta.ric20@gmail.com
